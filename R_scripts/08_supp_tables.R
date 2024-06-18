@@ -1,4 +1,4 @@
-## Make supplementary tables of genome info for chapter 5
+## Make supplementary tables of genome info 
 
 setwd("~/Documents/R/Metagenomics") 
 
