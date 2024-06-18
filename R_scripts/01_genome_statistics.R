@@ -1,4 +1,4 @@
-## Get genome statistics and relative abundance estimates
+## Get genome statistics and plot GC content and genome size
 
 setwd("~/Documents/R/Metagenomics") 
 
