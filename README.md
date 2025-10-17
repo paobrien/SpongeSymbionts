@@ -1,6 +1,5 @@
 # SpongeSymbionts
 
-This repository contains all scripts used in the comparative analysis of sponge symbiont genomes, along with the output from the EnrichM analysis and supplemental tables. Manuscript is currently under review at Environmental Microbiology:
-O'Brien et al., 2024. "Comparative genomics identifies key adaptive traits of sponge associated microbial symbionts"
+This repository contains all scripts used in the comparative analysis of sponge symbiont genomes associated with the manuscript: O'Brien, Paul A., et al. "Comparative genomics identifies key adaptive traits of sponge‐associated microbial symbionts." Environmental Microbiology 26.9 (2024): e16690.
 
 DOI: 10.5281/zenodo.13266492
